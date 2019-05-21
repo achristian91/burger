@@ -1,0 +1,16 @@
+body {
+    background-color: orange !important;
+}
+#title {
+    font-size: 50px;
+}
+
+#burgermain {
+    height: 160px;
+    width: 270px;
+}
+
+#submitsection {
+    margin-left: 360px;
+    padding: 16px;
+}
